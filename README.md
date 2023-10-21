@@ -29,7 +29,7 @@ Follow these steps to use the application:
 
 ## Note
 
-- Ensure that you have .NET 7.0 or a compatible runtime installed on your system to run this application.
+- Ensure that you have .NET 6.0 or a compatible runtime installed on your system to run this application.
 
 - Be aware of the file naming and overwriting rules. If there are existing files with the same name in the `resize_directory`, they might be overwritten.
 

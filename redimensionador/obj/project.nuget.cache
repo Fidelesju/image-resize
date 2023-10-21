@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrSqyV48a2uIf5u1X/1GRKSA7RmvSH1R3mYk5c5xlZncNhR6hhJrYqsSlIxEvCUmz60tbyQSI/CxlRC4HaZG0w==",
+  "dgSpecHash": "yoEN9ir2WNcSyStZh5b/9yr+JVezxbSAS7dxCEP4C34NqrW+XZZr28r88yBFdZhv3rdBz3x993Rz6nSo4yEo1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\redimensionador\\redimensionador\\redimensionador.csproj",
+  "projectFilePath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\image-resize\\redimensionador\\redimensionador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julia Fideles\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Julia Fideles\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"

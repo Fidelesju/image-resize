@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\redimensionador\\redimensionador\\redimensionador.csproj",
+      "projectUniqueName": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\image-resize\\redimensionador\\redimensionador.csproj",
       "projectName": "redimensionador",
-      "projectPath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\redimensionador\\redimensionador\\redimensionador.csproj",
+      "projectPath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\image-resize\\redimensionador\\redimensionador.csproj",
       "packagesPath": "C:\\Users\\Julia Fideles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\redimensionador\\redimensionador\\obj\\",
+      "outputPath": "C:\\Users\\Julia Fideles\\OneDrive\\Documentos\\Documentos\\Git\\portfolio\\image-resize\\redimensionador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julia Fideles\\AppData\\Roaming\\NuGet\\NuGet.Config",
